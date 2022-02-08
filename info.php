@@ -10,5 +10,6 @@
     }
     echo "<br> I like water";
     echo "<br> I like rice";
+    echo "<br> I like tea";
     
 ?>
