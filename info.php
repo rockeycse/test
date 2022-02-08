@@ -9,5 +9,6 @@
         echo "you are female";
     }
     echo "<br> I like water";
+    echo "<br> I like rice";
     
 ?>
